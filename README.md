@@ -1,6 +1,26 @@
 # myshop
 
-A new Flutter project.
+- Firebase Realtime Database
+  - get all product
+  - get orders
+  - post product
+  - post orders
+  - delete product
+  - patch, put product
+  - etc
+  
+- Authentication user: 
+  - sign in
+  - signup
+  - auto logout
+  - logout
+  - filtering by creator id
+  - etc
+- State management provdiers
+- Animation:
+  - animated container
+  - hero
+  - etc
 
 ## Getting Started
 
