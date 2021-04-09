@@ -21,6 +21,8 @@
   - animated container
   - hero
   - etc
+ 
+<img src="https://user-images.githubusercontent.com/45583824/114145860-1a69d700-9941-11eb-9ace-4b07b04b03cb.PNG" width="250" height="500"> 
 
 ## Getting Started
 
